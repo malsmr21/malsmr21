@@ -54,7 +54,7 @@ I love transforming business processes into seamless, automated customer journey
 <h2>🤝 Connect with Me</h2>
 
 [<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]  
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
+[<img align="left" alt="LinkedIn" width="22px" src="www.linkedin.com/in/mark-allan-salvador-0832b1199" />][linkedin]  
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]  
 
 [youtube]: https://www.youtube.com/YOUR_CHANNEL  
