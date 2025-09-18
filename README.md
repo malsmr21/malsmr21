@@ -58,7 +58,7 @@ I love transforming business processes into seamless, automated customer journey
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]  
 
 [youtube]: https://www.youtube.com/YOUR_CHANNEL  
-[linkedin]: [www.linkedin.com/in/mark-allan-salvador-0832b1199]
+[linkedin]: www.linkedin.com/in/mark-allan-salvador-0832b1199
 [twitter]: https://twitter.com/YOUR_HANDLE  
 
 ---
