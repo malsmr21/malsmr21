@@ -1,48 +1,47 @@
-<h1>Hi, I'm Mark Salvador! <br/>
-<a href="https://github.com/YOUR_GITHUB">Marketing Technologist</a>, 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">CRM & Automation Specialist</a>
-</h1>
+# Hi, I'm Mark Salvador!  
+[Marketing Technologist](https://github.com/marksalvador) • [CRM & Automation Specialist](https://www.linkedin.com/in/mark-allan-salvador-0832b1199)
 
-![Keap](https://img.shields.io/badge/CRM-Keap-green) 
-![HubSpot](https://img.shields.io/badge/CRM-HubSpot-orange) 
-![Zapier](https://img.shields.io/badge/Automation-Zapier-yellow) 
-![n8n](https://img.shields.io/badge/Automation-n8n-blue) 
-![WordPress](https://img.shields.io/badge/Web-WordPress-lightgrey) 
-![GTM](https://img.shields.io/badge/Tracking-Google_Tag_Manager-blue)
+[![Keap](https://img.shields.io/badge/CRM-Keap-green)](https://keap.com)
+[![HubSpot](https://img.shields.io/badge/CRM-HubSpot-orange)](https://hubspot.com)
+[![Zapier](https://img.shields.io/badge/Automation-Zapier-yellow)](https://zapier.com)
+[![n8n](https://img.shields.io/badge/Automation-n8n-blue)](https://n8n.io)
+[![WordPress](https://img.shields.io/badge/Web-WordPress-lightgrey)](https://wordpress.org)
+[![GTM](https://img.shields.io/badge/Tracking-Google_Tag_Manager-blue)](https://tagmanager.google.com)
 
 ---
 
-<h2>👋 About Me</h2>
+## 👋 About Me
+
 I'm a Marketing Technologist with 5+ years of remote experience specializing in CRM automation, campaign execution, and funnel building.  
 I love transforming business processes into seamless, automated customer journeys that improve engagement and ROI.
 
 ---
 
-<h2>⚡ Featured Projects</h2>
+## ⚡ Featured Projects
 
-- <b>HubSpot CRM Automation</b>  
-  - [Automated Lead Nurturing Workflows](https://github.com/YOUR_GITHUB/projects/hubspot-automation)  
+- **HubSpot CRM Automation**  
+  - [Automated Lead Nurturing Workflows](https://github.com/marksalvador/projects/hubspot-automation)  
 
-- <b>n8n + Keap Integration</b>  
-  - [Connecting Keap with external apps using n8n](https://github.com/YOUR_GITHUB/projects/keap-n8n-integration)  
+- **n8n + Keap Integration**  
+  - [Connecting Keap with external apps using n8n](https://github.com/marksalvador/projects/keap-n8n-integration)  
 
-- <b>WordPress + GTM</b>  
-  - [Conversion Event Tracking Setup (Elementor + GTM)](https://github.com/YOUR_GITHUB/projects/wordpress-gtm)  
+- **WordPress + GTM**  
+  - [Conversion Event Tracking Setup (Elementor + GTM)](https://github.com/marksalvador/projects/wordpress-gtm)  
 
-- <b>Kanban-Style CRM Pipelines</b>  
-  - [Task Workflow for Marketing Campaigns](https://github.com/YOUR_GITHUB/projects/kanban-crm-pipeline)  
-
----
-
-<h2>📖 Learning Resources</h2>
-
-- [Google Tag Manager Basics](https://github.com/YOUR_GITHUB/learning-resources/gtm/intro.md)  
-- [n8n Use Cases](https://github.com/YOUR_GITHUB/learning-resources/n8n/use-cases.md)  
-- [HubSpot Workflow Experiments](https://github.com/YOUR_GITHUB/learning-resources/hubspot/crm-workflows.md)  
+- **Kanban-Style CRM Pipelines**  
+  - [Task Workflow for Marketing Campaigns](https://github.com/marksalvador/projects/kanban-crm-pipeline)  
 
 ---
 
-<h2>🎓 Certifications</h2>
+## 📖 Learning Resources
+
+- [Google Tag Manager Basics](https://github.com/marksalvador/learning-resources/gtm/intro.md)  
+- [n8n Use Cases](https://github.com/marksalvador/learning-resources/n8n/use-cases.md)  
+- [HubSpot Workflow Experiments](https://github.com/marksalvador/learning-resources/hubspot/crm-workflows.md)  
+
+---
+
+## 🎓 Certifications
 
 - Keap Academy: *The Keap Way* (2024)  
 - Infusionsoft Success Lab: Campaign Builder, E-Commerce, Referral Partner Mastery (2022)  
@@ -51,14 +50,16 @@ I love transforming business processes into seamless, automated customer journey
 
 ---
 
-<h2>🤝 Connect with Me</h2>
+## 🤝 Connect with Me
 
 [<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]  
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]  
 
+<br clear="left"/>
+
 [youtube]: https://www.youtube.com/YOUR_CHANNEL  
-[linkedin]: https://www.linkedin.com/in/mark-allan-salvador-0832b1199
+[linkedin]: https://www.linkedin.com/in/mark-allan-salvador-0832b1199  
 [twitter]: https://twitter.com/YOUR_HANDLE  
 
 ---
