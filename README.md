@@ -19,7 +19,7 @@ I love transforming business processes into seamless, automated customer journey
 
 ## ⚡ Featured Projects
 
-- **HubSpot CRM Automation**  
+- **Keap CRM Automation**  
   - [Automated Lead Nurturing Workflows](https://github.com/marksalvador/projects/hubspot-automation)  
 
 - **n8n + Keap Integration**  
