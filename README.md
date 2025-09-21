@@ -19,6 +19,9 @@ I love transforming business processes into seamless, automated customer journey
 
 ## ⚡ Featured Projects
 
+- **Shopify → Zapier → Keap Integration**  
+  - [End-to-end eCommerce CRM Automation Flow](https://github.com/marksalvador/shopify-zapier-keap)  
+
 - **Keap CRM Automation**  
   - [Automated Lead Nurturing Workflows](https://github.com/malsmr21/KeapCRMAutomations)  
 
@@ -29,7 +32,7 @@ I love transforming business processes into seamless, automated customer journey
   - [Conversion Event Tracking Setup (Elementor + GTM)](https://github.com/marksalvador/projects/wordpress-gtm)  
 
 - **Kanban-Style CRM Pipelines**  
-  - [Task Workflow for Marketing Campaigns](https://github.com/marksalvador/projects/kanban-crm-pipeline)  
+  - [Task Workflow for Marketing Campaigns](https://github.com/marksalvador/projects/kanban-crm-pipeline)    
 
 ---
 
