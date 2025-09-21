@@ -20,7 +20,7 @@ I love transforming business processes into seamless, automated customer journey
 ## ⚡ Featured Projects
 
 - **Shopify → Zapier → Keap Integration**  
-  - [End-to-end eCommerce CRM Automation Flow](https://github.com/marksalvador/shopify-zapier-keap)  
+  - [End-to-end eCommerce CRM Automation Flow](https://github.com/malsmr21/ShopifyZapierKeap)  
 
 - **Keap CRM Automation**  
   - [Automated Lead Nurturing Workflows](https://github.com/malsmr21/KeapCRMAutomations)  
