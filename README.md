@@ -23,10 +23,10 @@ I love transforming business processes into seamless, automated customer journey
   - [Smart Scheduling → CRM → Lesson Management Automation](https://github.com/malsmr21/OnceHub-Zapier-Keap-Teachworks)  
 
 - **WordPress (Gravity Forms) → KeapConnect API Goal → Keap**  
-  - [Seamless Contact Sync from WordPress to Keap](https://github.com/malsmr21/WordPress-GravityForm-Keap)  
+  - [Seamless Contact Sync (Gravity Forms → Keap)](https://github.com/malsmr21/WordPress-GravityForm-Keap)  
 
 - **WordPress (Elementor Forms) → Zapier → Keap**  
-  - [Seamless Contact Sync from WordPress to Keap](https://github.com/malsmr21/WordPress-Zapier-Keap)  
+  - [Seamless Contact Sync (Elementor Forms → Keap)](https://github.com/malsmr21/WordPress-Zapier-Keap)    
 
 - **Shopify → Zapier → Keap Integration**  
   - [End-to-End eCommerce CRM Automation Flow](https://github.com/malsmr21/ShopifyZapierKeap)  
