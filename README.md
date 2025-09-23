@@ -43,7 +43,7 @@ Here’s what I’m currently learning:
 [![Advanced WordPress](https://img.shields.io/badge/Leveling_Up-WordPress-lightgrey?logo=wordpress)](https://wordpress.org)  
 [![GTM](https://img.shields.io/badge/Improving-Google_Tag_Manager-blue?logo=google-tag-manager)](https://tagmanager.google.com)  
 
-📌 Resource in focus: [n8n Use Cases (video walkthrough)](https://youtu.be/ZHH3sr234zY?si=MY4fxIOvZk5JMZF-) *(ongoing)*  
+📌 Resource in focus: [n8n Use Cases (video walkthrough)](https://www.coursera.org/learn/build-intelligent-agents-using-deepseek--n8n-workflows/lecture/G7B8V/introduction-to-the-course) *(ongoing)*  
 
 ---
 
