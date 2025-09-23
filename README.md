@@ -20,9 +20,12 @@ I love transforming business processes into seamless, automated customer journey
 ## ⚡ Featured Projects
 
 - **OnceHub → Zapier → Keap → Teachworks**  
-  - [Smart Scheduling → CRM → Lesson Management Automation](https://github.com/malsmr21/Integration-and-Automation-Flow-OnceHub-Zapier-Keap-Teachworks)  
+  - [Smart Scheduling → CRM → Lesson Management Automation](https://github.com/malsmr21/OnceHub-Zapier-Keap-Teachworks)  
 
-- **WordPress (Elementor) → Zapier → Keap**  
+- **WordPress (Gravity Forms) → KeapConnect API Goal → Keap**  
+  - [Seamless Contact Sync from WordPress to Keap](https://github.com/malsmr21/WordPress-GravityForm-Keap)  
+
+- **WordPress (Elementor Forms) → Zapier → Keap**  
   - [Seamless Contact Sync from WordPress to Keap](https://github.com/malsmr21/WordPress-Zapier-Keap)  
 
 - **Shopify → Zapier → Keap Integration**  
@@ -35,7 +38,7 @@ I love transforming business processes into seamless, automated customer journey
   - [Conversion Event Tracking Setup (Elementor + GTM)](https://github.com/marksalvador/wordpress-gtm)  
 
 - **Kanban-Style CRM Pipelines**  
-  - [Task Workflow for Marketing Campaigns](https://github.com/marksalvador/kanban-crm-pipeline)    
+  - [Task Workflow for Marketing Campaigns](https://github.com/marksalvador/kanban-crm-pipeline)      
 
 ---
 
