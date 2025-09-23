@@ -22,11 +22,11 @@ I love transforming business processes into seamless, automated customer journey
 - **OnceHub → Zapier → Keap → Teachworks**  
   - [Smart Scheduling → CRM → Lesson Management Automation](https://github.com/malsmr21/Integration-and-Automation-Flow-OnceHub-Zapier-Keap-Teachworks)  
 
-- **Shopify → Zapier → Keap Integration**  
-  - [End-to-End eCommerce CRM Automation Flow](https://github.com/malsmr21/ShopifyZapierKeap)  
-
 - **WordPress (Elementor) → Zapier → Keap**  
   - [Seamless Contact Sync from WordPress to Keap](https://github.com/malsmr21/WordPress-Zapier-Keap)  
+
+- **Shopify → Zapier → Keap Integration**  
+  - [End-to-End eCommerce CRM Automation Flow](https://github.com/malsmr21/ShopifyZapierKeap)  
 
 - **n8n → Keap Integration**  
   - [Connecting Keap with External Apps using n8n](https://github.com/marksalvador/keap-n8n-integration)  
