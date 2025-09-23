@@ -2,10 +2,10 @@
 [Marketing Technologist](https://github.com/marksalvador) • [CRM & Automation Specialist](https://www.linkedin.com/in/mark-allan-salvador-0832b1199)
 
 [![Keap](https://img.shields.io/badge/CRM-Keap-green)](https://keap.com)
-[![HubSpot](https://img.shields.io/badge/CRM-HubSpot-orange)](https://hubspot.com)
 [![Zapier](https://img.shields.io/badge/Automation-Zapier-yellow)](https://zapier.com)
-[![n8n](https://img.shields.io/badge/Automation-n8n-blue)](https://n8n.io)
 [![WordPress](https://img.shields.io/badge/Web-WordPress-lightgrey)](https://wordpress.org)
+[![HubSpot](https://img.shields.io/badge/CRM-HubSpot-orange)](https://hubspot.com)
+[![n8n](https://img.shields.io/badge/Automation-n8n-blue)](https://n8n.io)
 [![GTM](https://img.shields.io/badge/Tracking-Google_Tag_Manager-blue)](https://tagmanager.google.com)
 
 ---
@@ -20,25 +20,16 @@ I love transforming business processes into seamless, automated customer journey
 ## ⚡ Featured Projects
 
 - **OnceHub → Zapier → Keap → Teachworks**  
-  - [Smart Scheduling → CRM → Lesson Management Automation](https://github.com/malsmr21/OnceHub-Zapier-Keap-Teachworks)  
+  - [Smart Scheduling → CRM → Lesson Management Automation](https://github.com/malsmr21/Integration-and-Automation-Flow-OnceHub-Zapier-Keap-Teachworks)  
 
 - **WordPress (Gravity Forms) → KeapConnect API Goal → Keap**  
-  - [Seamless Contact Sync (Gravity Forms → Keap)](https://github.com/malsmr21/WordPress-GravityForm-Keap)  
+  - [Seamless Contact Sync from WordPress to Keap](https://github.com/malsmr21/WordPress-GravityForm-Keap)  
 
 - **WordPress (Elementor Forms) → Zapier → Keap**  
-  - [Seamless Contact Sync (Elementor Forms → Keap)](https://github.com/malsmr21/WordPress-Zapier-Keap)    
+  - [Seamless Contact Sync from WordPress to Keap](https://github.com/malsmr21/WordPress-Zapier-Keap)      
 
 - **Shopify → Zapier → Keap Integration**  
   - [End-to-End eCommerce CRM Automation Flow](https://github.com/malsmr21/ShopifyZapierKeap)  
-
-- **n8n → Keap Integration**  
-  - [Connecting Keap with External Apps using n8n](https://github.com/marksalvador/keap-n8n-integration)  
-
-- **WordPress → GTM**  
-  - [Conversion Event Tracking Setup (Elementor + GTM)](https://github.com/marksalvador/wordpress-gtm)  
-
-- **Kanban-Style CRM Pipelines**  
-  - [Task Workflow for Marketing Campaigns](https://github.com/marksalvador/kanban-crm-pipeline)      
 
 ---
 
@@ -59,6 +50,29 @@ I love transforming business processes into seamless, automated customer journey
 
 ---
 
+## 🗣️ Recognition & Feedback  
+
+I’m grateful for the trust and appreciation I’ve received from both **clients and teammates** across different projects.  
+Here are some of their kind words and recognition:  
+
+<details>
+  <summary>📸 View Feedback & Recognition (screenshots)</summary>
+  
+  ![Team Recognition Screenshot](https://i.imgur.com/os4QcU7.png)
+  ![Client Feedback Screenshot](https://i.imgur.com/NluZ0rE.png)    
+  ![Team Recognition Screenshot](https://i.imgur.com/jespXBX.png)  
+  ![Team Recognition Screenshot](https://i.imgur.com/Ob7vVst.png)  
+  ![Team Recognition Screenshot](https://i.imgur.com/pSJQi8B.png)  
+  ![Team Recognition Screenshot](https://i.imgur.com/wDWxj64.png)
+  ![Client Feedback Screenshot](https://i.imgur.com/xWLK1nL.png)    
+  ![Team Recognition Screenshot](https://i.imgur.com/54uPrLr.png)  
+  ![Team Recognition Screenshot](https://i.imgur.com/smu2UI3.png)  
+  ![Team Recognition Screenshot](https://i.imgur.com/NOG2pJp.png)  
+  ![Team Recognition Screenshot](https://i.imgur.com/F0VqEwR.png)
+</details>
+
+---
+
 ## 🤝 Connect with Me
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
@@ -71,4 +85,4 @@ I love transforming business processes into seamless, automated customer journey
 
 ---
 
-✨ *This profile README highlights my projects, learning notes, and real-world experiences in marketing technology.*
+✨ *This profile README highlights my projects, recognition, learning notes, and real-world experiences in marketing technology.*
