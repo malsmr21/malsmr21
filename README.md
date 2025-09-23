@@ -82,10 +82,13 @@ Here are some of their kind words and recognition:
 ## 🤝 Connect with Me
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
+[<img align="left" alt="X (Twitter)" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][xprofile]  
+📧 **Email:** marklss1021@gmail.com  
 
 <br clear="left"/>
 
 [linkedin]: https://www.linkedin.com/in/mark-allan-salvador-0832b1199  
+[xprofile]: https://x.com/m07_salvador?s=21    
 
 ---
 
