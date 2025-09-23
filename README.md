@@ -33,11 +33,17 @@ I love transforming business processes into seamless, automated customer journey
 
 ---
 
-## 📖 Learning Resources
+## 📚 Learning in Progress  
 
-- [Google Tag Manager Basics](https://github.com/marksalvador/learning-resources/blob/main/gtm/intro.md)  
-- [n8n Use Cases](https://github.com/marksalvador/learning-resources/blob/main/n8n/use-cases.md)  
-- [HubSpot Workflow Experiments](https://github.com/marksalvador/learning-resources/blob/main/hubspot/crm-workflows.md)  
+I continuously explore and document new tools and approaches.  
+Here’s what I’m currently learning:  
+
+[![n8n](https://img.shields.io/badge/Learning-n8n-blue?logo=n8n)](https://n8n.io)  
+[![HubSpot](https://img.shields.io/badge/Studying-HubSpot-orange?logo=hubspot)](https://hubspot.com)  
+[![Advanced WordPress](https://img.shields.io/badge/Leveling_Up-WordPress-lightgrey?logo=wordpress)](https://wordpress.org)  
+[![GTM](https://img.shields.io/badge/Improving-Google_Tag_Manager-blue?logo=google-tag-manager)](https://tagmanager.google.com)  
+
+📌 Resource in focus: [n8n Use Cases (video walkthrough)](https://youtu.be/ZHH3sr234zY?si=MY4fxIOvZk5JMZF-) *(ongoing)*  
 
 ---
 
@@ -58,17 +64,17 @@ Here are some of their kind words and recognition:
 <details>
   <summary>📸 View Feedback & Recognition (screenshots)</summary>
   
-  ![Team Recognition Screenshot](https://i.imgur.com/os4QcU7.png)
+  ![Team Recognition Screenshot](https://i.imgur.com/os4QcU7.png)  
   ![Client Feedback Screenshot](https://i.imgur.com/NluZ0rE.png)    
   ![Team Recognition Screenshot](https://i.imgur.com/jespXBX.png)  
   ![Team Recognition Screenshot](https://i.imgur.com/Ob7vVst.png)  
   ![Team Recognition Screenshot](https://i.imgur.com/pSJQi8B.png)  
-  ![Team Recognition Screenshot](https://i.imgur.com/wDWxj64.png)
+  ![Team Recognition Screenshot](https://i.imgur.com/wDWxj64.png)  
   ![Client Feedback Screenshot](https://i.imgur.com/xWLK1nL.png)    
   ![Team Recognition Screenshot](https://i.imgur.com/54uPrLr.png)  
   ![Team Recognition Screenshot](https://i.imgur.com/smu2UI3.png)  
   ![Team Recognition Screenshot](https://i.imgur.com/NOG2pJp.png)  
-  ![Team Recognition Screenshot](https://i.imgur.com/F0VqEwR.png)
+  ![Team Recognition Screenshot](https://i.imgur.com/F0VqEwR.png)  
 </details>
 
 ---
@@ -76,12 +82,10 @@ Here are some of their kind words and recognition:
 ## 🤝 Connect with Me
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]  
 
 <br clear="left"/>
 
 [linkedin]: https://www.linkedin.com/in/mark-allan-salvador-0832b1199  
-[twitter]: https://twitter.com/YOUR_HANDLE  
 
 ---
 
